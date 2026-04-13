@@ -1,0 +1,22 @@
+
+# Security & Environments
+.env
+.env.local
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Models
+# (Uncomment the line below if you don't want to track the heavy ML models in git)
+# models/*.pkl
+
+# GSD Local State
+.gsd/STATE.md
+.gsd/JOURNAL.md
+.gsd/TODO.md
+
+# Temporary and scratch files
+scratch_*/
