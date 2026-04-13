@@ -237,6 +237,6 @@ prohibited. Vigitra is deployed exclusively by CipherNest for client engagements
 
 **Built by [CypherNest] — Securing India's Business Future**
 
-[LinkedIn](https://linkedin.com/in/aneesh-poniyan) · [GitHub](https://github.com/AnuuPoniyan) · contact@CypherNest
+[LinkedIn](https://linkedin.com/in/aneesh-poniyan) · [GitHub]((https://github.com/Aneesh-Poniyan)) · contact@CypherNest
 
 </div>
